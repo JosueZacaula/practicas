@@ -1,0 +1,30 @@
+.login-page {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.login > * {
+    display: block;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.post {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.blog-image {
+    width: 100%;
+    padding: 10px 0 15px 0;
+}
